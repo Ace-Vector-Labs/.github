@@ -1,4 +1,4 @@
-<a href="https://www.acevectorlabs.com" target="_blank"><img src="./Logo.svg" alt="Logo" style="float:right;width:88px;height:88px;background:#0ea5e9;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
+<a href="https://www.acevectorlabs.com" target="_blank"><img src="./Logo.svg" alt="Logo" style="float:right;width:88px;height:88px;background:#152025;border-radius:10px;padding:8px;margin:0 0 8px 8px;" /></a>
 
 # Hi 👋,
 
